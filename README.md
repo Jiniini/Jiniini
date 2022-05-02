@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cd4242,100:101010&section=header&text=JINI%20Land&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cd4242,100:282727&section=header&text=JINI%20Land&fontSize=90" />
 
 <!--
 **Jiniini/Jiniini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
